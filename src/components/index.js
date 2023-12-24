@@ -1,7 +1,7 @@
+import MenuItem from './Menuitem/MenuItem'; // Fix the casing of the import statement
 import SubHeading from './SubHeading/SubHeading';
 import Newsletter from './Footer/Newsletter';
 import FooterOverlay from './Footer/FooterOverlay';
-import MenuItem from './MenuItem/MenuItem'; // Fix the casing of the filename
 import Navbar from './Navbar/Navbar';
 
 export {
