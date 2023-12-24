@@ -16,13 +16,17 @@ const Chef = () => (
       <div className="app__chef-content">
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
-          <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .</p>
+          <p className="p__opensans">At Banarasi Restro, we grow by blending tradition with innovation, crafting dishes that embody the spirit of Banaras. Our commitment to quality, warm hospitality, and a sense of community propels our growth.</p>
         </div>
-        <p className="p__opensans"> auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit. Nulla scelerisque scelerisque congue ac consequat, aliquam molestie lectus eu. Congue iaculis integer curabitur semper sit nunc. </p>
+        <p className="p__opensans"> "You are what you eat. For spiritual growth, one should eat sattvic food." - Bhagavad Gita
+
+"The food we eat can be either the safest and most powerful form of medicine or the slowest form of poison." - Charaka Samhita
+
+"When diet is wrong, medicine is of no use. When diet is correct, medicine is of no need." - Ayurveda. </p>
       </div>
 
       <div className="app__chef-sign">
-        <p>Kevin Luo</p>
+        <p>राहुल चौधरी</p>
         <p className="p__opensans">Chef & Founder</p>
         <img src={images.sign} alt="sign_image" />
       </div>
